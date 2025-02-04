@@ -16,8 +16,8 @@
 - **JavaScript**: For dynamic functionality and API integration.
 - **Exchange Rates API**: For fetching real-time currency exchange rates.
 
-## How to Use
+## Demo 💻
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/CurrencyXchange.git
+> Link to live demo
+
+--- https://woafi.github.io/CurrencyXchange/index.html
